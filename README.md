@@ -1,1 +1,1 @@
-# -AI-Tech-RecSys-
+# Boostcamp-AI-Tech-RecSys
